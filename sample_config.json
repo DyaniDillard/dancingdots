@@ -1,8 +1,8 @@
 {
     "seed" : 12345,
     "window" : {
-        "width" : 1920,
-        "height" : 900,
+        "width" : 1120, 
+        "height" : 600,
         "bgcolor" : [0, 0, 0],
         "scenepairs" : "expr:[i for i in itertools.permutations(config['scenes'])]",
         "blind" : true
@@ -21,7 +21,7 @@
         {
             "count" : 15,
             "period" : 0.1,
-            "color" : [0.5, 0.5, 0.2],
+            "color" : [1.0, 1.0, 1.0],
             "template" : "expr:config['template']"
         },
         {
