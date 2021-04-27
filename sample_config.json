@@ -21,7 +21,7 @@
         {
             "count" : 15,
             "period" : 0.1,
-            "color" : [1.0, 1.0, 1.0],
+            "color" : [0.5, 0.3, 1.0],
             "template" : "expr:config['template']"
         },
         {
